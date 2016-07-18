@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "461725758610",
+    "firebase_url": "https://foro-425b9.firebaseio.com",
+    "project_id": "foro-425b9",
+    "storage_bucket": "foro-425b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461725758610:android:fa9869092675874d",
+        "android_client_info": {
+          "package_name": "com.mansilla.admin.cursoedx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461725758610-lfkgdu14bp3bn458njfnmu34o94dq9km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPx3SzH3Nx7HxWUqN9HWiXr9T6N8NYu_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
